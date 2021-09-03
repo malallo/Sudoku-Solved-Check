@@ -1,0 +1,14 @@
+---
+:id: 29744760
+:submitters:
+- :name: Troy S Durand
+  :email: tsdurand@my.uri.edu
+- :name: Matt Robert Lallo
+  :email: malallo@my.uri.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-02-17 23:13:59.111482000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-02-17 15:13:59.111482000 Z
+:status: processed
+:score: 66.0
